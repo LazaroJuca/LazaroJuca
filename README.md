@@ -16,10 +16,12 @@ Eu sou o Lázaro Juca, sou um programador Front End, atualmente estou aprendendo
 
 <p>
 <a href=""https://www.instragran.com/lazaro.juca">
-<img align="left" alt="Instragran" widt="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <a/>
 <a href="https://www.linkedin.com/in/lázaro-juca"/>
-<img align="left" alt="LinkedIn" width="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a/>
 <p/>
 <br>
