@@ -24,5 +24,18 @@ Eu sou o Lázaro Juca, sou um programador Front End, atualmente estou aprendendo
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a/>
 <p/>
-<br>
-<br>
+<br />
+<br />
+
+
+<p align="left">
+ <br />
+  
+Languages and Tools:
+ </p>
+<br />
+
+<code><img height="100" src="https://ayltoninacio.com.br/img/p/32w750.jpg"></code>
+
+
+
